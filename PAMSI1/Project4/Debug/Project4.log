@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\remik-pc\desktop\pamsi\pamsi1\project4\tablice.h(19): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\remik-pc\desktop\pamsi\pamsi1\project4\main.cpp(36): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Project4.vcxproj -> C:\Users\Remik-PC\Desktop\PAMSI\PAMSI1\Debug\Project4.exe

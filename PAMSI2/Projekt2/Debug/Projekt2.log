@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Projekt2.cpp
+c:\users\remik-pc\desktop\pamsi\pamsi2\projekt2\projekt2.cpp(8): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Projekt2.vcxproj -> C:\Users\Remik-PC\Desktop\PAMSI\PAMSI2\Debug\Projekt2.exe
